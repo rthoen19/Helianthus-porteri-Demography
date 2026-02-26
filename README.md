@@ -9,5 +9,6 @@ Thoen and DeMarche (2026)
 - VitalRateDataSets.Rdata - contains most the datasets required for analyses. Specifically, data for all vital rate models and the base dataframes to run the matrix model and bootstrap the matrix model.
 - IBMListForSimulations.Rdata - contains the list which prompts and stores data from individual-based model simulations.
 
+# Notes
 
-
+- all code were run in R version 4.0.2
